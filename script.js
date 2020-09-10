@@ -2272,7 +2272,7 @@ data = {
         chineseName: "黃育強",
         englishName: "None",
         studentID: "DB726106",
-        status: "學會會員",
+        status: "學會會長",
     },
     {
         chineseName: "伍仲鈜",

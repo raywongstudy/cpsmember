@@ -34,7 +34,8 @@ main{
     max-width: 600px;
 }
 .main_form > img{
-    width:100%;
+    width:80%;
+    max-width:500px;
     object-fit: cover;
     max-height:125px;
 }
@@ -54,7 +55,7 @@ main{
 .main_form input[type=submit]{
     width:10%;
     height:40px;
-    border-radius: 5px;
+    border-radius: .2em;
     margin-left:2px;
     border:1px solid #ccc;
     cursor: pointer;

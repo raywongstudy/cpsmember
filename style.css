@@ -34,7 +34,8 @@ main{
     max-width: 600px;
 }
 .main_form > img{
-    width:80%;
+    padding:10px;
+    width:100%;
     max-width:500px;
     object-fit: cover;
     max-height:125px;

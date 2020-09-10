@@ -61,12 +61,6 @@ data = {
         status: "學會會員(未付費)",
     },
     {
-        chineseName: "黃偉權",
-        englishName: "WONG WAI KUN",
-        studentID: "DC026139",
-        status: "學會會員",
-    },
-    {
         chineseName: "黄少行",
         englishName: "huangshaoxing",
         studentID: "DC026709",
@@ -83,12 +77,6 @@ data = {
         englishName: "CHAM KIT I",
         studentID: "DC026081",
         status: "被選中的小朋友",
-    },
-    {
-        chineseName: "区国豪",
-        englishName: "ouguohao",
-        studentID: "DC026166",
-        status: "學會會員",
     },
     {
         chineseName: "梁浩銘",
@@ -157,18 +145,6 @@ data = {
         status: "學會會員",
     },
     {
-        chineseName: "司徒偉捷",
-        englishName: "Si Tou Wai Chit",
-        studentID: "DC025642",
-        status: "學會會員(未付費)",
-    },
-    {
-        chineseName: "司徒偉捷",
-        englishName: "Si Tou Wai Chit",
-        studentID: "DC025642",
-        status: "學會會員(未付費)",
-    },
-    {
         chineseName: "鍾海欣",
         englishName: "Chong Hoi Ian",
         studentID: "DC026697",
@@ -184,12 +160,6 @@ data = {
         chineseName: "盧嘉豪",
         englishName: "LOU KA HOU",
         studentID: "DC026205",
-        status: "學會會員(未付費)",
-    },
-    {
-        chineseName: "司徒偉捷",
-        englishName: "Si Tou Wai Chit",
-        studentID: "DC025642",
         status: "學會會員(未付費)",
     },
     {

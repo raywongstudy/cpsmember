@@ -19,6 +19,18 @@ data = {
         status: "學會會員",
     },
     {
+        chineseName: "黃昊泓",
+        englishName: "Wong Hou Wang",
+        studentID: "DC026962",
+        status: "學會會員",
+    },
+    {
+        chineseName: "鍾家鴻",
+        englishName: "Chong Ka Hong",
+        studentID: "DC025512",
+        status: "學會會員",
+    },
+    {
         chineseName: "何頌文",
         englishName: "Ho chong man",
         studentID: "DC026754",
@@ -52,12 +64,6 @@ data = {
         chineseName: "邝楚丰",
         englishName: "kuangchufeng",
         studentID: "DC028248",
-        status: "學會會員(未付費)",
-    },
-    {
-        chineseName: "李若璇",
-        englishName: "Louise",
-        studentID: "DC027534",
         status: "學會會員(未付費)",
     },
     {
@@ -112,12 +118,6 @@ data = {
         chineseName: "何凱城",
         englishName: "HO HOI SENG",
         studentID: "BC001082",
-        status: "學會會員(未付費)",
-    },
-    {
-        chineseName: "李若璇",
-        englishName: "Louise",
-        studentID: "DC027534",
         status: "學會會員(未付費)",
     },
     {

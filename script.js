@@ -217,12 +217,6 @@ data = {
         status: "學會會員",
     },
     {
-        chineseName: "黃偉權",
-        englishName: "WONG WAI KUN",
-        studentID: "DC026139",
-        status: "學會會員(未付費)",
-    },
-    {
         chineseName: "张华康",
         englishName: "ZHANG Huakang",
         studentID: "DB927606",
@@ -2267,12 +2261,6 @@ data = {
         englishName: "None",
         studentID: "DB726094",
         status: "學會會員",
-    },
-    {
-        chineseName: "黃育強",
-        englishName: "None",
-        studentID: "DB726106",
-        status: "學會會長",
     },
     {
         chineseName: "伍仲鈜",

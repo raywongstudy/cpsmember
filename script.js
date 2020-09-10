@@ -88,7 +88,7 @@ data = {
         chineseName: "区国豪",
         englishName: "ouguohao",
         studentID: "DC026166",
-        status: "學會會員(未付費)",
+        status: "學會會員",
     },
     {
         chineseName: "梁浩銘",

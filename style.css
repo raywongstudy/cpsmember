@@ -35,7 +35,7 @@ main{
 }
 .main_form > img{
     width:100%;
-    cursor: pointer;
+    object-fit: cover;
 }
 
 .main_form h1{

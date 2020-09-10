@@ -36,6 +36,7 @@ main{
 .main_form > img{
     width:100%;
     object-fit: cover;
+    max-height:125px;
 }
 
 .main_form h1{
